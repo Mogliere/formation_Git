@@ -1,0 +1,31 @@
+PS C:\Users\JM6690\Documents\formation_adh\formation_Git> history
+
+  Id CommandLine                                                                                                                                               
+  -- -----------                                                                                                                                               
+   1 try { . "c:\Program Files\Microsoft VS Code\6a44c352bd\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}    
+   2 git status                                                                                                                                                
+   3 git add README.md                                                                                                                                         
+   4 git status                                                                                                                                                
+   5 git commit -m "A"                                                                                                                                         
+   6 git branch                                                                                                                                                
+   7 git push origin main                                                                                                                                      
+   8 git log                                                                                                                                                   
+   9 git diff                                                                                                                                                  
+  10 git log                                                                                                                                                   
+  11 git add .\README.md                                                                                                                                       
+  12 git log                                                                                                                                                   
+  13 git commit -m "B"                                                                                                                                         
+  14 git log                                                                                                                                                   
+  15 git push origin main                                                                                                                                      
+  16 git add README.md                                                                                                                                         
+  17 git status                                                                                                                                                
+  18 git commit -m "C"                                                                                                                                         
+  19 git push origin main                                                                                                                                      
+  20 git log                                                                                                                                                   
+  21 git pull origin main                                                                                                                                      
+  22 git status                                                                                                                                                
+  23 git add README.md                                                                                                                                         
+  24 git commit -m "conflit résolu !"                                                                                                                          
+  25 git pull origin main                                                                                                                                      
+  26 git push origin main                                                                                                                                      
+  27 git log                                                                                                                                                   
